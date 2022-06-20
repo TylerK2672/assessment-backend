@@ -6,9 +6,27 @@
   <body class="container">
     <button id="complimentButton">Get a compliment</button>
     <button id="fortuneButton">Get a fortune</button>
+    <button id="quoteButton">Get a motivational quote</button>
+    <h1 id="quote"></h1>
+
+    <form id="form1">
+      <input type="text" id="newQuote" placeholder="Enter new quote here"/>
+      <input type="text" id="quoteRating" placeholder="Enter quote rating here"/>
+      <button>add quote</button>
+    </form>
+
+    <br><br>
+
+    <button onclick="deleteQuote()">delete first quote</button>
+
+    <!-- <form id="form2">
+      <input type="number" id="id" placeholder="Enter quote id to edit"/>
+      <input type="text" id="editedQuote" placeholder="Enter new quote"/>
+      <input type="text" id="editedRating" placeholder="Enter new rating"/>
+      <button>edit quote</button>
+    </form> -->
 
     <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
     <script src="main.js"></script>
-    
   </body>
 </html>

@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "quote": "FIND YOUR PEACE AND LIVE IN IT",
+        "rating": "good"
+    },
+    {
+        "id": 1,
+        "quote": "JUST BECAUSE YOUR LIGHT FLICKERS DOES NOT MEAN IT'S ABOUT TO GO OUT",
+        "rating": "alright"
+    },
+    {
+        "id": 2,
+        "quote": "THE SIMPLEST ANSWER IS USUALLY THE CORRECT ONE",
+        "rating": "good"
+    },
+    {
+        "id": 3,
+        "quote": "IN THIS LIFE YOU DO GET SECOND CHANCES",
+        "rating": "good"
+    },
+    {
+        "id": 4,
+        "quote": "BUILD UPON WHAT IMPRESSES YOU AND FORGET WHAT EVERYONE ELSE THINKS",
+        "rating": "great"
+    }
+]
