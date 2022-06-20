@@ -46,17 +46,6 @@ module.exports =
         globalId++
     },
 
-    // editQuote: (req, res) =>
-    // {
-    //     let { id } = req.params
-    //     let { quote, rating } = req.body
-
-    //     quotes[id].quote = quote;
-    //     quotes[id].rating = rating;
-
-    //     res.status(200).send(quotes);
-    // },
-
     deleteQuote: (req, res) =>
     {
         quotes.splice(0, 1)
